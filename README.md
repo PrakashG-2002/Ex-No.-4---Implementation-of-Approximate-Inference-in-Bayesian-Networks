@@ -32,8 +32,8 @@ Step 7:Print Approximate Probabilities:
 
 ## Program :
 ```
-Developed by: PRAKASH P
-Reg no. : 212221040126
+DEVELOPED BY: P. PRAKASH
+              212221040126
 ```
 ```
 from pgmpy.models import BayesianNetwork
